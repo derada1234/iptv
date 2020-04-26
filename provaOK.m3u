@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Syri tv
+http://tv.syri.net/syrilive/webtv/playlist.m3u8
+#EXTINF:-1,This is Bulgaria HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,Черно Море BG
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:-1,Tezaur
+http://77.89.221.150/tezaur/index.m3u8
+
+
+
+
